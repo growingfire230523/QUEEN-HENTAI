@@ -10,7 +10,7 @@ global.owner = [
   ['94740804536', 'Dinuwa Official²⁰²³', true],
   ['94740804536', 'Dinuwa Official²⁰²³', true], 
   [''] 
-] //Number of owners
+] //Number of owners 
 
 global.mods = ['94740804536','94740804536'] 
 global.prems = ['94740804536', '94740804536', '94740804536']
